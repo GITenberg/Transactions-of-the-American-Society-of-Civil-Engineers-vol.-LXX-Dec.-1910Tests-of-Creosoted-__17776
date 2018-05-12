@@ -1,0 +1,32 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXX-Dec.-1910Tests-of-Creosoted-__17776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, W. B. (William Benjamin)
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '7592'
+    url: http://www.gutenberg.org/2009/agents/7592
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood -- Preservation'
+- !lcsh 'Wood -- Testing'
+- !lcc 'TA'
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcsh 'Creosote'
+title: 'Transactions of the American Society of Civil Engineers, vol. LXX, Dec. 1910
+
+  Tests of Creosoted Timber, Paper No. 1168'
+url: http://www.gutenberg.org/ebooks/17776
